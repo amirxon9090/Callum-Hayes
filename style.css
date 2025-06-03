@@ -468,22 +468,23 @@ h5 {
     text-align: center;
     color: rgb(23, 20, 20);
 }
-.about1 h3{
-    position: relative;
-    top: 100px;
+.about h2{
+    position: absolute;
+    top: 200px;
     width: 30%;
-    left: 45%;
-    font-size: 20px;
-    color: rgb(26, 26, 26)
+    left: 51%;
+    font-size: 25px;
+    color: rgb(32, 30, 30);
 
 }
-.about1 h4 {
-    position: relative;
-    color: rgb(26, 26, 26);
+.about h3{
+    position: absolute;
+    top: 300px;
+    width: 30%;
+    left: 50%;
     font-size: 20px;
-    width: 28%;
-    left: 15%;
-    top: 0px;
+    color: rgb(56, 56, 56)
+
 }
 .about2 h1 {
     position: relative;
