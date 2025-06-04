@@ -31,6 +31,10 @@ ul {
 
 
 }
+img:hover {
+    transform: scale(1.02);
+    transition: 350ms;
+}
 
 li {
     float: right;
